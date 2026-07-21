@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🛡️ NeuroBlockchain XAI Immune System
-### Adaptive Network Intrusion Detection & Prevention Framework
+# 🛡️ NeuroBlockchain XAI Immune System for Adaptive Network Intrusion Detection
 
 <p align="center">
 
