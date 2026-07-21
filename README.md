@@ -5,15 +5,14 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Express-Backend-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-XAI-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3.11-3776AB?style=plastic&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=plastic&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express-Backend-000000?style=plastic&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-AI-FF6F00?style=plastic&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=plastic&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?style=plastic&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-XAI-8E44AD?style=plastic"/>
+<img src="https://img.shields.io/badge/License-MIT-green?style=plastic"/>
 
 </p>
 ### 🚀 Flagship Final Year Research Project
