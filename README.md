@@ -259,12 +259,6 @@ Contributions, suggestions, and constructive feedback are always welcome.
 
 ---
 
-# ⭐ Support
-
-If you find this project interesting, consider giving it a ⭐ on GitHub.
-
----
-
 <div align="center">
 
 ## 🚀 Building Intelligent Cybersecurity for the Future
