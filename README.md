@@ -3,10 +3,19 @@
 # 🛡️ NeuroBlockchain XAI Immune System
 ### Adaptive Network Intrusion Detection & Prevention Framework
 
-[![Status](https://img.shields.io/badge/Status-Active%20Development-blue?style=for-the-badge)]()
-[![Version](https://img.shields.io/badge/Version-v0.1.0-orange?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)]()
+<p align="center">
 
+<img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Express-Backend-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache-Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-XAI-7B1FA2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
+
+</p>
 ### 🚀 Flagship Final Year Research Project
 
 *An intelligent, decentralized, AI-powered Network Intrusion Detection and Prevention System combining Machine Learning, Deep Learning, Explainable AI, Blockchain, and Real-Time Streaming.*
